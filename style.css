@@ -1,0 +1,46 @@
+body {
+    margin: 0
+    padding: 0;
+    text-align: center; 
+    background-image: url(./photos/img5.jpg); 
+    background-size: cover; 
+    background-position: center; 
+    }
+
+.contactform-title{
+    color: ivory
+}
+.contactform-title h1{
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+}
+.contactform-title h2{
+    font-size: 25px; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    color: ivory
+
+}
+
+form{
+    margin-top: 50x;
+    position: center;  
+}
+
+.form-control{
+    width: 400px;
+    background: transparent; 
+    border: navajowhite;  
+    outline: none;
+    border-bottom: 1px solid cornsilk; 
+    text-align: center; 
+    color: white; 
+    margin-bottom: 30px; 
+    font-weight: bold; 
+}
+input{
+    height: 50px; 
+}
+::placeholder{
+    color: ivory; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
